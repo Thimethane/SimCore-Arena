@@ -202,6 +202,9 @@ configured environment.
 
 ### 5 — Generate the demo GIF (no display needed)
 
+<img width="458" height="480" alt="demo" src="https://github.com/user-attachments/assets/58e03a6a-be9a-4a36-a80b-353ed106069a" />
+
+
 ```bash
 python generate_demo.py                         # 35 agents, 90 frames
 python generate_demo.py --agents 50 --frames 120 --fps 20
