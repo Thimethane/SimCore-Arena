@@ -315,3 +315,4 @@ if __name__ == "__main__":
     args = parse_args()
     app  = SimulationApp(num_agents=args.agents, mode=args.mode)
     app.run()
+    
